@@ -1,0 +1,331 @@
+/*** --- BATTLEFIELD HEROES - FAN SITE - S --- ***/
+
+.info {
+  background: #f1c40f;
+  height: 75px;
+  line-height: 75px;
+  margin-bottom: 25px;
+  text-align: center;
+  font-size: 25px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+/*** ELEMENT - S ***/
+html {overflow-y: scroll;}
+
+a,
+a:active,
+a:focus,
+a:hover,
+a:visited
+{
+color: #FFF;
+outline: none;
+}
+a {
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+
+abbr {
+border-bottom: dotted;
+border-bottom-width: 1px;
+cursor: help;
+font-weight: bold;
+text-transform: uppercase;
+}
+
+body {
+background: #022330 url(../images/bg.png) no-repeat top left;
+color: #000;
+font-family: "Times New Roman", Arial, Sans-serif, Helvetica, Verdana;
+font-size: 10pt;
+}
+
+img[alt="g-img"] {
+background-color: #F1F4F8;
+border: #000 solid 1px;
+padding: 10px;
+}
+
+strong,
+th
+{
+text-align: left;
+text-transform: uppercase;
+}
+/*** ELEMENT - E ***/
+/* ----------------------------------------- */
+
+/*** CLASS - S ***/
+.text-underline {
+text-decoration: underline;
+}
+.text-uppercase {
+text-transform: uppercase;
+}
+.margin-r-10 {
+margin-right: 10px;
+}
+	/* BLOCK ALIGN - S */
+	.align-c {
+	display: block;
+	text-align: center;
+	}
+	.align-l {
+	display: block;
+	text-align: left;
+	}
+	.align-r {
+	display: block;
+	text-align: right;
+	}
+
+	.float-l {
+	float: left;
+	width: auto;
+	}
+	.float-r {
+	float: right;
+	width: auto;
+	}
+	/* BLOCK ALIGN - E */
+
+	/* CUSTOM DIV - BLUE - S */
+	.custom-div-blue {
+	background-color: #F1F4F8;
+	border: #000 solid 1px;
+	padding: 10px;
+	text-align: left;
+	}
+
+	.custom-div-blue a {
+	text-decoration: none;
+	}
+	.custom-div-blue a:hover {
+	text-decoration: underline;
+	}
+
+	.custom-div-blue a,
+	.custom-div-blue a:active,
+	.custom-div-blue a:hover,
+	.custom-div-blue a:visited
+	{
+	color: #55AAFF;
+	}
+	/* CUSTOM DIV - BLUE - E */
+
+	/* CUSTOM DIV - YELLOW - S */
+	.custom-div-yellow {
+	background-color: #FFFACD;
+	border: #000 solid 1px;
+	padding: 10px;
+	text-align: left;
+	}
+
+	.custom-div-yellow a {
+	text-decoration: none;
+	}
+	.custom-div-yellow a:hover {
+	text-decoration: underline;
+	}
+
+	.custom-div-yellow a,
+	.custom-div-yellow a:active,
+	.custom-div-yellow a:hover,
+	.custom-div-yellow a:visited
+	{
+	color: #55AAFF;
+	}
+	/* CUSTOM DIV - YELLOW - E */
+
+	/* IMAGES - S */
+	.border-none {
+	border: none;
+	}
+	.img-border-black {
+	border: #000 solid 1px;
+	margin: 10px;
+	}
+	.img-border-black-n-m {
+	border: #000 solid 1px;
+	}
+	.img-padding {
+	padding: 10px;
+	margin: 10px;
+	}
+	a.margin-sub-menu-right-side {
+	margin: 0px 0px 0px 10px;
+	}
+	/* IMAGES - E */
+
+	/* LISTS - S */
+	ul.list-bullet {
+	line-height: 20px;
+	list-style-image: url(../images/icons/trans-list-bullet.png);
+	}
+	ul.list-square {
+	list-style: square;
+	}
+	/* LISTS - E */
+
+	/* MENU COLOURS - S */
+	span.submenu-1,
+	span.submenu-2
+	{
+	border: #000 solid 1px;
+	font-size: 10pt;
+	padding: 0px 10px;
+	text-transform: uppercase;
+	}
+	span.submenu-1 {
+	background-image: url(../images/black.png);
+	}
+	span.submenu-2 {
+	background-image: url(../images/blue.png);
+	}
+
+	a.button-blue {
+	background-image:url(../images/blue.png);
+	}
+
+	.padding-l {
+	padding-left:1px;
+	}
+	/* MENU COLOURS - E */
+
+	/* TABLES - WIDTH - S */
+	.width-030 {width: 30px;}
+	.width-050 {width: 50px;}
+	.width-080 {width: 80px;}
+	.width-090 {width: 90px;}
+	.width-100 {width: 100px;}
+	.width-110 {width: 110px;}
+	.width-120 {width: 120px;}
+	.width-130 {width: 130px;}
+	.width-140 {width: 140px;}
+	.width-160 {width: 160px;}
+	.width-170 {width: 170px;}
+	.width-180 {width: 180px;}
+	.width-200 {width: 200px;}
+	.width-290 {width: 290px;}
+	.width-385 {width: 385px;}
+	.width-800 {width: 800px;}
+	.t-th-754 {width: 754px;}
+	/* TABLES - WIDTH - E */
+
+		/* SPECIAL CATEGORY - S */
+			/* OBJECT MARKERS - S */
+			.x-border-blue,
+			.x-border-green,
+			.x-border-red
+			{
+			border: solid 5px;
+			}
+
+			.x-border-blue {
+			border-color: #00F;
+			}
+			.x-border-green {
+			border-color: #0F0;
+			}
+			.x-border-red {
+			border-color: #F00;
+			}
+			/* OBJECT MARKERS - E */
+		/* SPECIAL CATEGORY - E */
+/*** CLASS - E ***/
+/* ----------------------------------------- */
+
+/*** ID - S ***/
+div#show-help-text {
+display:none;
+}
+
+	/* BODY - MAIN DIVs - S */
+	div#div-container {
+	margin: auto;
+	width: 840px;
+	height: auto;
+	}
+	div#div-error-no-js,
+	div#div-cssmenu,
+	p#div-footer
+	{
+	border: #FFF solid 5px;
+	}
+	div#div-cssmenu {
+	background-color: #AEAEAE;
+	width: 830px;
+	height: 40px;
+	}
+	p#div-footer {
+	background-color: #AEAEAE;
+	background-image: url(../images/blue.png);
+	font-size: 10pt;
+	padding: 15px;
+	text-align: center;
+	width: 800px;
+	height: 10px;
+	}
+	/* BODY - MAIN DIVs - E */
+
+	/* BODY - TEXT - S */
+	div#tbox-800600,
+	div#tbox-auto
+	{
+	background-color: #D2D2D2;
+	border: #000 solid 1px;
+	padding: 15px;
+	text-align: left;
+	width: 799px;
+	}
+	.tbox-border-white
+	{
+	border: #FFF solid 5px;
+	}
+
+	div#tbox-800600 {
+	height: 600px;
+	}
+	div#tbox-auto {
+	height: auto;
+	}
+	/* BODY - TEXT - E */
+
+	/* IMAGE CHANGE - S */
+	a#acz,
+	a#agb,
+	a#age
+	{
+	display: block;
+	overflow: hidden;
+	width: 25px;
+	height: 15px;
+	}
+	a#acz:hover,
+	a#agb:hover,
+	a#age:hover
+	{
+	text-indent: -25px;
+	}
+
+	a#ahome {
+	display: block;
+	overflow: hidden;
+	width: 840px;
+	height: 313px;
+	}
+	a#ahome:hover {
+	text-indent: -840px;
+	}
+	/* IMAGE CHANGE - E */
+/*** ID - E ***/
+
+/*** --- BATTLEFIELD HEROES - FAN SITE - E --- ***/
