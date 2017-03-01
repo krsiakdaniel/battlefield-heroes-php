@@ -1,0 +1,135 @@
+/* LIGHT BOX GALLERY- S */
+
+/* THUMBS - S */
+.gallery {
+zoom:1;
+}
+.gallery a {
+margin:5px;
+opacity:1;
+padding:5px;
+}
+.gallery a:hover {
+opacity:0.75;
+}
+/* THUMBS - E */
+
+/* ENGINE - S */
+#lightbox {
+line-height: 0;
+position: absolute;
+	left: 0;
+text-align: center;
+width: 100%;
+z-index: 100;
+}
+#lightbox img {
+width: auto;
+height: auto;
+}
+#lightbox a img {
+border: none;
+}
+
+#outerImageContainer {
+background-color: #fff;
+margin: 0 auto;
+position: relative;
+width: 250px;
+height: 250px;
+}
+#imageContainer {
+padding: 10px;
+}
+
+#loading {
+line-height: 0;
+text-align: center;
+position: absolute;
+	left: 0%;
+	top: 40%;
+width: 100%;
+height: 25%;
+}
+#hoverNav {
+position: absolute;
+	left: 0;
+	top: 0;
+width: 100%;
+height: 100%;
+z-index: 10;
+}
+#imageContainer>#hoverNav {
+left: 0;
+}
+#hoverNav a {
+outline: none;
+}
+
+#prevLink, #nextLink {
+background-image: url(data:image/gif;base64,AAAA);
+/* Trick IE into showing hover */
+display: block;
+width: 49%;
+height: 100%;
+}
+#prevLink {
+float: left;
+left: 0;
+}
+#nextLink {
+float: right;
+right: 0;
+}
+#prevLink:hover, #prevLink:visited:hover {
+background: url(../images/prevlabel.gif) left 15% no-repeat;
+}
+#nextLink:hover, #nextLink:visited:hover {
+background: url(../images/nextlabel.gif) right 15% no-repeat;
+}
+
+#imageDataContainer{
+background-color: #fff;
+font: 10px Verdana, Helvetica, sans-serif;
+line-height: 1.4em;
+margin: 0 auto;
+overflow: auto;
+width: 100%;
+}
+
+#imageData {
+color: #666;
+padding:0 10px;
+}
+#imageData #imageDetails {
+float: left;
+text-align: left;
+width: 70%;
+}
+#imageData #caption {
+font-weight: bold;
+}
+#imageData #numberDisplay {
+clear: left;
+display: block;
+padding-bottom: 1.0em;
+}
+#imageData #bottomNavClose {
+float: right;
+padding-bottom: 0.7em;
+outline: none;
+width: 66px;
+}
+
+#overlay {
+background-color: #000;
+position: absolute;
+	left: 0;
+	top: 0;
+z-index: 90;
+width: 100%;
+height: 500px;
+}
+/* ENGINE - E */
+
+/* LIGHT BOX GALLERY- E */
