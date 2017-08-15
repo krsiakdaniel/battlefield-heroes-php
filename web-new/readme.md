@@ -1,3 +1,0 @@
-# BATTLEFIELD HEROES
-
-New version.
