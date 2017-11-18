@@ -1,5 +1,5 @@
 # BATTLEFIELD HEROES
 
-My beloved game and first first website I created 10 years ago :smile:
+The first website I created in 2009.
 
 ![bfh](bfh.png)
