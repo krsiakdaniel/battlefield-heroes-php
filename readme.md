@@ -10,5 +10,7 @@ The first website I created in 2009: http://code.krsiak.cz/legacy/battlefield-he
 - [ ] BEM
 - [ ] SASS
 - [ ] Nette (Latte)
+- [ ] bulma.io
+- [ ] https://editorconfig.org/
 
 ![bfh](bfh.png)
