@@ -1,0 +1,53 @@
+/* CSS - MENU - S */
+
+	/* MENU BUTTONS - S */
+	#wikia {
+	background-image: url(../images/green.png);
+	}
+	#home {
+	background-image: url(../images/blue.png);
+	}
+	/* MENU BUTTONS - E */
+
+/* ------------------------------------------------------------------------------------- */
+/* MENU - S */
+ul#menu {
+background: repeat-x top left;
+background-image: url(../images/black.png);
+display: block;
+font-family: Helvetica, Arial, Sans-serif, Verdana;
+font-size: 9pt;
+list-style-type: none;
+margin: 0px;
+padding-left: 0px;
+position: relative;
+text-transform: uppercase;
+width: auto;
+height: 40px;
+}
+
+	/* MENU ITEMS - S */
+	ul#menu li {
+	display: block;
+	float: left;
+	margin-left: 0px;
+	padding-left: 0px;
+	border: #FFF solid;
+	border-width: 0px 0px 0px 1px;
+	}
+	ul#menu li a {
+	color: #FFF;
+	display: block;
+	float: left;
+	padding: 12px 20px 0px 17px;
+	text-decoration: none;
+	height: 28px;
+	}
+	ul#menu li a:hover {
+	background: repeat-x top left;
+	background-image: url(../images/blue.png);
+	}
+	/* MENU ITEMS - E */
+/* MENU - E */
+
+/* CSS - MENU - E */

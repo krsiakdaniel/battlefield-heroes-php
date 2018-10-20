@@ -5,8 +5,9 @@ The first website I created in 2009: http://code.krsiak.cz/legacy/battlefield-he
 ## TODO
 
 - [x] repo on GitHub
-- [ ] keep `old` site (do not delete)!
-- [ ] redesign it separately using flex
+- [x] keep `old` site (do not delete)!
+- [ ] new redesign separately
+- [ ] flex
 - [ ] BEM
 - [ ] SASS
 - [ ] Nette (Latte)
