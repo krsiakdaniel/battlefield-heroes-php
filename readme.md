@@ -1,7 +1,5 @@
 # BATTLEFIELD HEROES (2009)
 
-The first website I ever created: http://code.krsiak.cz/legacy/battlefield-heroes/
-
-Here is new redesigned version: https://github.com/krsiakdaniel/battlefield-heroes
+This was 1 month learning challnage to create 1st website knowing zero HTML, JS or PHP.
 
 ![bfh](bfh.png)
