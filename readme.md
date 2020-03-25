@@ -1,6 +1,6 @@
-# Battlefield Heroes (2009)
+# Battlefield Heroes
 
-This was 1 month challenge in 2009 learning basics of HTML, JS and PHP.
+This was 1 month challenge in 2009 to learn basics of HTML, PHP and JS.
 
 ## Localhost
 
