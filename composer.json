@@ -1,0 +1,11 @@
+{
+    "name": "battlefield-heroes",
+    "description": "The 1st website I ever created in 2009.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Krsiak Daniel",
+            "email": "krsiak.daniel@gmail.com"
+        }
+    ]
+}

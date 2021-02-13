@@ -1,0 +1,8 @@
+name: battlefield-heroes
+services:
+- environment_slug: php
+  github:
+    branch: master
+    deploy_on_push: true
+    repo: krsiakdaniel/battlefield-heroes
+  name: battlefield-heroes
