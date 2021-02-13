@@ -1,0 +1,8 @@
+spec:
+  name: battlefield-heroes
+  services:
+    - environment_slug: php
+      git:
+        branch: master
+        repo_clone_url: https://github.com/krsiakdaniel/battlefield-heroes.git
+      name: battlefield-heroes
