@@ -16,10 +16,7 @@ In 2009 this was 1 month challenge to learn the basics of web design:
 
 ## ⚡ Project Website
 
-Website: <https://battlefield-heroes-php.000webhostapp.com/armies.php>
-
-- *Due to the age of the project some icons are be missing and parts of the site may be partially broken.*
-- *THE SITE LINK EXPIRES ON 2/28/2025*
+_Website is not hosted online, but can be run locally._
 
 ## 🛠️ Tech Stack
 
