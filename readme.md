@@ -4,8 +4,6 @@
 
 ## 📚 Information
 
-![bfg-alert](/github-images/alert.png)
-
 In 2009 this was 1 month challenge to learn the basics of web design:
 
 - **HTML**
